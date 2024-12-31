@@ -1,0 +1,38 @@
+{
+  "name": "nextflex",
+  "version": "3.6.9",
+  "description": "A flexible CSS and SCSS styles package for Next.js projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraj-rs/nextflex.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "styles",
+    "nextjs",
+    "react",
+    "grid",
+    "flex",
+    "responsive",
+    "utility",
+    "layout",
+    "design",
+    "frontend",
+    "ui",
+    "theme",
+    "icons"
+  ],
+  "author": "Dheeraj R S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dheeraj-rs/nextflex/issues"
+  },
+  "homepage": "https://dheerajrs.com",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "sass": "^1.83.0"
+  }
+}
